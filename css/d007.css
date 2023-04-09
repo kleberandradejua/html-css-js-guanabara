@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+#local{
+    display: grid;
+    grid-template-rows: 25%;
+
+}
